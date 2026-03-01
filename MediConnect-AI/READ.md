@@ -53,28 +53,7 @@ python app.py
 
 Open browser: http://127.0.0.1:5000
 
-## Project Structure
-
-MediConnect-AI/
-app.py
-safety.py
-triage.py
-prompts.py
-pharmacy_db.json
-templates/index.html
-requirements.txt
-
-## Example Use
-
-User: I have throat pain
-Bot: Suggests lozenges and home care
-
-User: I want antibiotics
-Bot: Advises doctor consultation
-
-User: chest pain and breathlessness
-Bot: Immediate hospital recommendation
-
 ## Disclaimer
 
 This software is an informational support tool and does not replace professional medical advice.
+
